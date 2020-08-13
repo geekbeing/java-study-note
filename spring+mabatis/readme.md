@@ -17,3 +17,7 @@ spring整合Mybatis
 - userMppaer.xml
 
 - userMppaerImpl 实现类
+
+- spring配置 applicationContext.xml
+
+- 测试
